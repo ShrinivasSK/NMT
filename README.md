@@ -3,8 +3,8 @@
 This work is a part of my Master's Thesis under Prof. Pawan Goyal. 
 
 Following work has been done till now:
-1. Training FLAN T5 7B on our translation dataset.
-2. Pretraining LLama on Low Resource Indian Languages (using ALMA)
+1. Training FLAN T5 on our translation dataset.
+2. Pretraining LLama 7B, 11B on Low Resource Indian Languages (using ALMA)
 3. Code set up for Meta Training with MetaICL
 
 ### Note
